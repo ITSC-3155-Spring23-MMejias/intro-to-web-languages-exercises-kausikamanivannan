@@ -1,0 +1,19 @@
+body {
+    font-family: Georgia, serif;
+    background-color: #C6D8D3;
+  }
+  
+  #maintitle {
+    text-align: center;
+    font-size: 30px;
+    font-weight: bold;
+  }
+  
+  .bodycontent {
+    color: black;
+    margin-bottom: 12px;
+  }
+  
+  /*
+    Website: https://www.webucator.com/article/how-to-create-a-css-external-style-sheet/
+    This website shows how to create classes in an external css style sheet.
